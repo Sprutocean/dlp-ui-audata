@@ -42,9 +42,9 @@ export const contributionSteps: Step[] = [
   {
     id: 3,
     title: "Request Validation",
-    description: "Submitting job to validation nodes",
+    description: "Proving audios have real value and uniqueness",
     icon: <Server className="h-5 w-5" />,
-    statusMessage: "Requesting validation from Satya node...",
+    statusMessage: "Checking is your audio valid...",
   },
   {
     id: 4,
